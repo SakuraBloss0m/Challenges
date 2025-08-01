@@ -1,23 +1,23 @@
-# 💖🐰✨ My Kawaii Python Challenge Diary ✨🐰💖
+# 🎀💻✨ My Sanrio Python Challenge Notebook ✨💻🎀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="280" alt="Cute bunny coding" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdkYjRwb3Z6cHExOTltOXNrcThpZzhodGp1anQ4Z2x6NnJoZ2Z4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cnoXnqCgr8IfVVIRiU/giphy.gif" width="250" alt="Cinnamoroll coding kawaii gif" />
 </p>
 
-> 🌸 Welcome to my tiny code diary~!  
-> Here I collect all my baby Python challenges like sparkly stickers in a journal 💾🎀  
-> Let’s grow our brains and hearts one line of code at a time! (๑˃ᴗ˂)ﻭ
+> 🐰💗 *Welcome to my pastel world of Python~!*  
+> This is where I solve cute little coding challenges with help from my Sanrio friends~ 🌸
 
 ---
 
-## 🍓 What Is This?
+## 🍓 What’s This?
 
-This is my ✨ super cute ✨ Python challenge notebook~!  
-Each `.py` file is a tiny story from my coding journey 📖🌈
+This repo is like a pink diary 📔 filled with Python code,  
+each challenge ✨a stepping stone✨ in my learning journey!
 
-🐥 I'm learning at my own pace  
-🌼 I'm making mistakes (and learning from them!)  
-💌 I'm trying to make it *fun & pretty* along the way  
+- 🌼 Written with love, care, and Cinnamoroll vibes
+- 🧸 Every file is like a sticker in my code scrapbook
+- 💌 I'm learning one baby step at a time~
 
 ---
+
 
