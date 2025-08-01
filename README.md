@@ -1,4 +1,4 @@
-# 🎀💻✨ My Sanrio Python Challenge Notebook ✨💻🎀
+# 🎀💻✨ My Python Challenge Notebook ✨💻🎀
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/73/eb/91/73eb915bee60322f0d85457e802df124.gif" width="250" alt="Hello Kitty typing gif" />
