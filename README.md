@@ -1,18 +1,23 @@
-# 🌸🐍✨ Kawaii Python Challenge Garden ✨🐍🌸
+# 💖🐰✨ My Kawaii Python Challenge Diary ✨🐰💖
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250" alt="Kawaii bunny typing" />
+  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="280" alt="Cute bunny coding" />
 </p>
 
-> 🍓 Welcome to my cozy lil’ Python corner~!  
-> This is where I plant my code seeds 🌱 and grow my Python skills 🌼✨
+> 🌸 Welcome to my tiny code diary~!  
+> Here I collect all my baby Python challenges like sparkly stickers in a journal 💾🎀  
+> Let’s grow our brains and hearts one line of code at a time! (๑˃ᴗ˂)ﻭ
 
 ---
 
-## 💖 What's This?
+## 🍓 What Is This?
 
-This is my personal garden of Python programming challenges!  
-Each file is a tiny adventure — full of logic, loops, and *a sprinkle of magic*. ✨🐇
+This is my ✨ super cute ✨ Python challenge notebook~!  
+Each `.py` file is a tiny story from my coding journey 📖🌈
+
+🐥 I'm learning at my own pace  
+🌼 I'm making mistakes (and learning from them!)  
+💌 I'm trying to make it *fun & pretty* along the way  
 
 ---
 
