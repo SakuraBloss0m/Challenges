@@ -1,7 +1,7 @@
 # 🎀💻✨ My Sanrio Python Challenge Notebook ✨💻🎀
 
 <p align="center">
-  <img src="https://media.giphy.com/media/7z1xs4Fl9Kb8A/giphy.gif" width="250" alt="Hello Kitty typing gif" />
+  <img src="https://i.pinimg.com/originals/73/eb/91/73eb915bee60322f0d85457e802df124.gif" width="250" alt="Hello Kitty typing gif" />
 </p>
 
 > 🐰💗 *Welcome to my pastel world of Python~!*  
